@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-xl font-bold text-center text-amber-400 my-2">
+  <h1 class="text-xl font-bold text-center text-amber-100 my-2">
     اسماء الحسنی
   </h1>
   <div class="flex justify-center items-center">    

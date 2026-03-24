@@ -1,5 +1,7 @@
 <template>
-  <div class="py-2 cursor-pointer" :class="cardClass" @click="handleClick">
+  <div class="py-2 cursor-pointer" 
+  :class="cardClass" 
+  @click="handleClick">
   	<div v-if="!item.matched" class="text-4xl text-center my-4 text-olive-700">{{ item.id }}</div>
   	<transition	name="reveal">
   		<div v-if="item.matched" class="mt-2">  			
