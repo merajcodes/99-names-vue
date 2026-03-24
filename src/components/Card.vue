@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-olive-800 py-2">
+  <div class="py-2 cursor-pointer" :class="cardClass" @click="handleClick">
   	<div v-if="!item.matched" class="text-4xl text-center my-4 text-olive-700">{{ item.id }}</div>
   	<transition	name="reveal">
   		<div v-if="item.matched" class="mt-2">  			
@@ -18,6 +18,18 @@ export default {
     item: {
       type: Object,
       required: true
+    }
+  },
+  computed: {
+    cardClass() {
+      return this.item.revealedManually
+        ? 'bg-red-950'
+        : 'bg-olive-800'
+    }
+  },
+  methods: {
+    handleClick() {
+      this.$emit('reveal', this.item.id)
     }
   }
 }
