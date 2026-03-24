@@ -1,0 +1,1299 @@
+[
+  {
+    "id": 1,
+    "arabic_name": "الرَّحْمَنُ",
+    "allowed_spellings": [
+      "RAHMAN",
+      "RAHMAAN",
+      "AR-RAHMAN",
+      "AR RAHMAN",
+      "AR RAHMAAN",
+      "AR-RAHMAAN"
+    ]
+  },
+  {
+    "id": 2,
+    "arabic_name": "الرَّحِيمُ",
+    "allowed_spellings": [
+      "RAHIM",
+      "RAHEEM",
+      "RAHIYM",
+      "AR RAHEEM",
+      "AR RAHIM",
+      "AR-RAHEEM",
+      "AR-RAHIM"
+    ]
+  },
+  {
+    "id": 3,
+    "arabic_name": "الْمَلِكُ",
+    "allowed_spellings": [
+      "AL-MALIK",
+      "AL-MAALIK",
+      "AL MALIK",
+      "AL MAALIK",
+      "MALIK",
+      "MAALIK"
+    ]
+  },
+  {
+    "id": 4,
+    "arabic_name": "الْقُدُّوسُ",
+    "allowed_spellings": [
+      "AL QUDDUS",
+      "AL-QUDDUS",
+      "QUDDUS",
+      "QUDDOUS",
+      "AL-QUDDOUS",
+      "AL QUDDOUS",
+      "AL-QUDDOOS",
+      "AL QUDDOOS",
+      "QUDDOOS",
+      "QADDUS",
+      "QAADDUS"
+    ]
+  },
+  {
+    "id": 5,
+    "arabic_name": "السَّلاَمُ",
+    "allowed_spellings": [
+      "AS-SALAM",
+      "SALAM",
+      "AS SALAM",
+      "SALAAM",
+      "AS-SALAAM",
+      "AS SALAAM"
+    ]
+  },
+  {
+    "id": 6,
+    "arabic_name": "الْمُؤْمِنُ",
+    "allowed_spellings": [
+      "AL-MUMIN",
+      "AL MUMIN",
+      "AL-MU'MIN",
+      "AL MU'MIN",
+      "MU'MIN",
+      "MUMIN"
+    ]
+  },
+  {
+    "id": 7,
+    "arabic_name": "الْمُهَيْمِنُ",
+    "allowed_spellings": [
+      "AL-MUHAYMIN",
+      "AL MUHAYMIN",
+      "MUHAYMIN"
+    ]
+  },
+  {
+    "id": 8,
+    "arabic_name": "الْعَزِيزُ",
+    "allowed_spellings": [
+      "AL-AZIZ",
+      "AZIZ",
+      "AL-AZEEZ",
+      "AZEEZ"
+    ]
+  },
+  {
+    "id": 9,
+    "arabic_name": "الْجَبَّارُ",
+    "allowed_spellings": [
+      "AL-JABBAR",
+      "AL JABBAR",
+      "AL-JABBAAR",
+      "AL JABBAAR",
+      "JABBAAR",
+      "JABBAR",
+      "JABAR"
+    ]
+  },
+  {
+    "id": 10,
+    "arabic_name": "الْمُتَكَبِّر",
+    "allowed_spellings": [
+      "AL-MUTAKABBIR",
+      "AL MUTAKABBIR",
+      "MUTAKABBIR",
+      "AL-MUTAKABIR",
+      "MUTAKABIR",
+      "AL MUTAKABIR"
+    ]
+  },
+  {
+    "id": 11,
+    "arabic_name": "الْخَالِقُ",
+    "allowed_spellings": [
+      "AL-KHAALIQ",
+      "AL-KHALIQ",
+      "AL KHAALIQ",
+      "KHAALIQ",
+      "KHALIQ"
+    ]
+  },
+  {
+    "id": 12,
+    "arabic_name": "الْبَارِئُ",
+    "allowed_spellings": [
+      "AL-BARI",
+      "AL BARI",
+      "AL-BAARI",
+      "AL BAARI",
+      "BARI",
+      "BAARI"
+    ]
+  },
+  {
+    "id": 13,
+    "arabic_name": "الْمُصَوِّرُ",
+    "allowed_spellings": [
+      "AL-MUSAWWIR",
+      "AL MUSAWWIR",
+      "MUSAWWIR",
+      "AL-MUSSAWWIR",
+      "AL MUSSAWWIR",
+      "MUSSAWWIR"
+    ]
+  },
+  {
+    "id": 14,
+    "arabic_name": "الْغَفَّارُ",
+    "allowed_spellings": [
+      "AL-GHAFFAR",
+      "AL GHAFFAR",
+      "AL-GHAFAR",
+      "AL GHAFAR",
+      "GHAFFAR",
+      "GHAFAR",
+      "AL-GHAFFAAR",
+      "AL GHAFFAAR",
+      "GHAFFAAR"
+    ]
+  },
+  {
+    "id": 15,
+    "arabic_name": "الْقَهَّارُ",
+    "allowed_spellings": [
+      "AL-QAHHAR",
+      "QAHHAR",
+      "AL QAHHAR",
+      "AL-QAHHAAR",
+      "AL QAHHAAR",
+      "QAHHAAR",
+      "QAHAR",
+      "AL-QAHAR",
+      "AL QAHAR"
+    ]
+  },
+  {
+    "id": 16,
+    "arabic_name": "الْوَهَّابُ",
+    "allowed_spellings": [
+      "AL-WAHHAAB",
+      "AL WAHHAAB",
+      "WAHHAAB",
+      "AL-WAHHAB",
+      "AL WAHHAB",
+      "WAHHAB"
+    ]
+  },
+  {
+    "id": 17,
+    "arabic_name": "الرَّزَّاقُ",
+    "allowed_spellings": [
+      "AR-RAZZAAQ",
+      "AR RAZZAAQ",
+      "RAZZAAQ",
+      "AR-RAZZAQ",
+      "AR RAZZAQ",
+      "RAZZAQ",
+      "RAZAQ"
+    ]
+  },
+  {
+    "id": 18,
+    "arabic_name": "الْفَتَّاحُ",
+    "allowed_spellings": [
+      "AL-FATTAAH",
+      "AL FATTAAH",
+      "FATTAAH",
+      "AL-FATTAH",
+      "FATTAH",
+      "AL FATTAH",
+      "FATAH"
+    ]
+  },
+  {
+    "id": 19,
+    "arabic_name": "اَلْعَلِيْمُ",
+    "allowed_spellings": [
+      "AL-ALIM",
+      "AL ALIM",
+      "ALIM",
+      "AL-ALEEM",
+      "AL ALEEM",
+      "ALEEM"
+    ]
+  },
+  {
+    "id": 20,
+    "arabic_name": "الْقَابِضُ",
+    "allowed_spellings": [
+      "AL-QAABID",
+      "AL QAABID",
+      "QAABID",
+      "AL-QABID",
+      "AL QABID",
+      "QABID",
+      "AL-QABIDH",
+      "AL QABIDH",
+      "QABIDH",
+      "AL-QAABIDH",
+      "AL QAABIDH",
+      "QAABIDH"
+    ]
+  },
+  {
+    "id": 21,
+    "arabic_name": "الْبَاسِطُ",
+    "allowed_spellings": [
+      "AL-BAASIT",
+      "AL BAASIT",
+      "BAASIT",
+      "AL-BASIT",
+      "BASIT",
+      "AL BASIT"
+    ]
+  },
+  {
+    "id": 22,
+    "arabic_name": "الْخَافِضُ",
+    "allowed_spellings": [
+      "AL-KHAAFID",
+      "KHAAFID",
+      "KHAFID",
+      "AL-KHAFID",
+      "AL KHAFID"
+    ]
+  },
+  {
+    "id": 23,
+    "arabic_name": "الرَّافِعُ",
+    "allowed_spellings": [
+      "AR-RAAFI",
+      "AR RAAFI",
+      "RAAFI",
+      "AR-RAFI",
+      "AR RAFI",
+      "RAFI",
+      "RAFEE",
+      "AR-RAFEE",
+      "AR RAFEE",
+      "RAAFEE"
+    ]
+  },
+  {
+    "id": 24,
+    "arabic_name": "الْمُعِزُّ",
+    "allowed_spellings": [
+      "AL-MU'IZZ",
+      "AL MU'IZZ",
+      "MU'IZZ",
+      "MUIZZ",
+      "AL-MUʿEIZZ",
+      "MUIZ",
+      "MU`IZZ",
+      "AL-MU`IZZ",
+      "AL MU`IZZ"
+    ]
+  },
+  {
+    "id": 25,
+    "arabic_name": "ٱلْمُذِلُّ",
+    "allowed_spellings": [
+      "AL-MUZIL",
+      "AL MUZIL",
+      "MUZIL",
+      "AL-MUDZHILL",
+      "MUDHILL",
+      "AL-MUDHILL",
+      "AL-MUDILL",
+      "MUDILL"
+    ]
+  },
+  {
+    "id": 26,
+    "arabic_name": "السَّمِيعُ",
+    "allowed_spellings": [
+      "AS-SAMEE",
+      "AS SAMEE",
+      "SAMEE",
+      "AS-SAMI",
+      "AS SAMI",
+      "SAMI"
+    ]
+  },
+  {
+    "id": 27,
+    "arabic_name": "الْبَصِيرُ",
+    "allowed_spellings": [
+      "AL-BASEER",
+      "BASEER",
+      "AL BASEER",
+      "AL-BASIR",
+      "AL-BASSIR",
+      "AL BASIR",
+      "BASIR",
+      "AL-BASWIR",
+      "AL BASWIR",
+      "BASWIR"
+    ]
+  },
+  {
+    "id": 28,
+    "arabic_name": "الْحَكَمُ",
+    "allowed_spellings": [
+      "AL-HAKAM",
+      "AL HAKAM",
+      "HAKAM"
+    ]
+  },
+  {
+    "id": 29,
+    "arabic_name": "الْعَدْلُ",
+    "allowed_spellings": [
+      "AL-ADL",
+      "AL ADL",
+      "ADL",
+      "AL-EDL",
+      "AL EDL"
+    ]
+  },
+  {
+    "id": 30,
+    "arabic_name": "اللَّطِيفُ",
+    "allowed_spellings": [
+      "AL-LATEEF",
+      "AL LATEEF",
+      "LATEEF",
+      "AL-LATIF",
+      "AL LATIF",
+      "LATIF",
+      "AL-LATTEEF",
+      "AL LATTEEF",
+      "LATTEEF"
+    ]
+  },
+  {
+    "id": 31,
+    "arabic_name": "الْخَبِيرُ",
+    "allowed_spellings": [
+      "AL-KHABEER",
+      "AL KHABEER",
+      "KHABEER",
+      "AL-KHABIR",
+      "AL KHABIR",
+      "KHABIR"
+    ]
+  },
+  {
+    "id": 32,
+    "arabic_name": "الْحَلِيمُ",
+    "allowed_spellings": [
+      "AL-HALEEM",
+      "HALEEM",
+      "AL HALEEM",
+      "AL-HALIM",
+      "AL HALIM",
+      "HALIM",
+      "HALIYM"
+    ]
+  },
+  {
+    "id": 33,
+    "arabic_name": "الْعَظِيمُ",
+    "allowed_spellings": [
+      "AL-AZEEM",
+      "AL AZEEM",
+      "AZEEM",
+      "AL-AZIM",
+      "AL AZIM",
+      "AZIM",
+      "AZZEEM",
+      "AZIYM"
+    ]
+  },
+  {
+    "id": 34,
+    "arabic_name": "الْغَفُور",
+    "allowed_spellings": [
+      "AL-GHAFOOR",
+      "AL GHAFOOR",
+      "GHAFOOR",
+      "AL-GHAFUR",
+      "AL GHAFUR",
+      "GHAFUR",
+      "AL-GHAFOUR",
+      "GHAFOUR"
+    ]
+  },
+  {
+    "id": 35,
+    "arabic_name": "الشَّكُورُ",
+    "allowed_spellings": [
+      "ASH-SHAKOOR",
+      "SHAKOOR",
+      "ASH SHAKOOR",
+      "ASH SHAKUR",
+      "ASH-SHAKUR",
+      "SHAKUR",
+      "ASH SHAKOUR",
+      "ASH-SHAKOUR",
+      "SHAKOUR"
+    ]
+  },
+  {
+    "id": 36,
+    "arabic_name": "الْعَلِيُّ",
+    "allowed_spellings": [
+      "AL-ALEE",
+      "AL ALEE",
+      "AL-ALI",
+      "AL-ALIYY",
+      "AL ALIYY",
+      "ALIYY",
+      "AL ALI",
+      "ALI"
+    ]
+  },
+  {
+    "id": 37,
+    "arabic_name": "الْكَبِيرُ",
+    "allowed_spellings": [
+      "AL-KABEER",
+      "AL KABEER",
+      "KABEER",
+      "AL-KABIR",
+      "AL KABIR",
+      "KABIR",
+      "KABIYR"
+    ]
+  },
+  {
+    "id": 38,
+    "arabic_name": "الْحَفِيظُ",
+    "allowed_spellings": [
+      "AL-HAFEEDH",
+      "AL HAFEEDH",
+      "HAFEEDH",
+      "AL-HAFIZ",
+      "AL HAFIZ",
+      "HAFIZ",
+      "AL-HAFEEZ",
+      "AL HAFEEZ",
+      "HAFEEZ"
+    ]
+  },
+  {
+    "id": 39,
+    "arabic_name": "المُقيِت",
+    "allowed_spellings": [
+      "AL-MUQEET",
+      "AL MUQEET",
+      "MUQEET",
+      "AL-MUQIT",
+      "AL MUQIT",
+      "MUQIT",
+      "AL-MUQIYT",
+      "AL MUQIYT",
+      "MUQIYT"
+    ]
+  },
+  {
+    "id": 40,
+    "arabic_name": "الْحسِيبُ",
+    "allowed_spellings": [
+      "AL-HASEEB",
+      "HASEEB",
+      "AL HASEEB",
+      "AL-HASIB",
+      "AL HASIB",
+      "HASIB"
+    ]
+  },
+  {
+    "id": 41,
+    "arabic_name": "الْجَلِيلُ",
+    "allowed_spellings": [
+      "AL-JALEEL",
+      "AL JALEEL",
+      "JALEEL",
+      "AL-JALIL",
+      "AL JALIL",
+      "JALIL",
+      "JALIYL",
+      "AL-JALIYL",
+      "AL JALIYL"
+    ]
+  },
+  {
+    "id": 42,
+    "arabic_name": "الْكَرِيمُ",
+    "allowed_spellings": [
+      "AL-KAREEM",
+      "AL KAREEM",
+      "KAREEM",
+      "AL-KARIM",
+      "AL KARIM",
+      "KARIM",
+      "KARIYM"
+    ]
+  },
+  {
+    "id": 43,
+    "arabic_name": "الرَّقِيبُ",
+    "allowed_spellings": [
+      "AR-RAQEEB",
+      "AR RAQEEB",
+      "RAQEEB",
+      "AR-RAQIB",
+      "AR RAQIB",
+      "RAQIB",
+      "RAQIYB"
+    ]
+  },
+  {
+    "id": 44,
+    "arabic_name": "ٱلْمُجِيبُ",
+    "allowed_spellings": [
+      "AL-MUJIB",
+      "AL MUJIB",
+      "MUJIB",
+      "MUJIYB",
+      "MUJEEB",
+      "AL-MUJEEB",
+      "AL MUJEEB"
+    ]
+  },
+  {
+    "id": 45,
+    "arabic_name": "الْوَاسِعُ",
+    "allowed_spellings": [
+      "AL-WAASI",
+      "AL WAASI",
+      "WAASI",
+      "AL-WASI",
+      "AL WASI",
+      "WASI",
+      "WAASIE"
+    ]
+  },
+  {
+    "id": 46,
+    "arabic_name": "الْحَكِيمُ",
+    "allowed_spellings": [
+      "AL-HAKEEM",
+      "AL HAKEEM",
+      "HAKEEM",
+      "AL-HAKIM",
+      "AL HAKIM",
+      "HAKIM",
+      "HAKIYM"
+    ]
+  },
+  {
+    "id": 47,
+    "arabic_name": "الْوَدُودُ",
+    "allowed_spellings": [
+      "AL-WADUD",
+      "AL WADUD",
+      "WADUD",
+      "AL-WADOUD",
+      "AL WADOUD",
+      "WADOUD",
+      "AL-WADOOD",
+      "AL WADOOD",
+      "WADOOD"
+    ]
+  },
+  {
+    "id": 48,
+    "arabic_name": "الْمَجِيدُ",
+    "allowed_spellings": [
+      "AL-MAJEED",
+      "AL MAJEED",
+      "MAJEED",
+      "AL-MAJID",
+      "AL MAJID",
+      "MAJID",
+      "MAJIYD"
+    ]
+  },
+  {
+    "id": 49,
+    "arabic_name": "الْبَاعِثُ",
+    "allowed_spellings": [
+      "AL-BA'ITH",
+      "AL-BAITH",
+      "AL BA'ITH",
+      "BA'ITH",
+      "BAITH",
+      "AL-BAAITH",
+      "AL BAAITH",
+      "BAAITH"
+    ]
+  },
+  {
+    "id": 50,
+    "arabic_name": "الشَّهِيدُ",
+    "allowed_spellings": [
+      "ASH-SHAHEED",
+      "ASH SHAHEED",
+      "SHAHEED",
+      "ASH-SHAHID",
+      "SHAHID",
+      "ASH SHAHID",
+      "SHAHIYD"
+    ]
+  },
+  {
+    "id": 51,
+    "arabic_name": "الْحَقُ",
+    "allowed_spellings": [
+      "AL-HAQQ",
+      "AL HAQQ",
+      "HAQQ"
+    ]
+  },
+  {
+    "id": 52,
+    "arabic_name": "الْوَكِيلُ",
+    "allowed_spellings": [
+      "AL-WAKEEL",
+      "AL WAKEEL",
+      "WAKEEL",
+      "AL-WAKIL",
+      "AL WAKIL",
+      "WAKIL",
+      "AL WAKIYL",
+      "AL-WAKIYL",
+      "WAKIYL"
+    ]
+  },
+  {
+    "id": 53,
+    "arabic_name": "الْقَوِيُ",
+    "allowed_spellings": [
+      "AL-QAWIYY",
+      "AL QAWIYY",
+      "QAWIYY",
+      "AL-QAWI",
+      "AL QAWI",
+      "QAWI",
+      "AL-QAWEE"
+    ]
+  },
+  {
+    "id": 54,
+    "arabic_name": "الْمَتِينُ",
+    "allowed_spellings": [
+      "AL-MATEEN",
+      "AL MATEEN",
+      "MATEEN",
+      "AL-MATIN",
+      "AL MATIN",
+      "MATIN",
+      "MATIYN"
+    ]
+  },
+  {
+    "id": 55,
+    "arabic_name": "الْوَلِيُّ",
+    "allowed_spellings": [
+      "AL-WALIY",
+      "AL WALIY",
+      "WALIY",
+      "AL-WALEE",
+      "AL WALEE",
+      "WALEE"
+    ]
+  },
+  {
+    "id": 56,
+    "arabic_name": "الْحَمِيدُ",
+    "allowed_spellings": [
+      "AL-HAMEED",
+      "AL HAMEED",
+      "HAMEED",
+      "AL-HAMID",
+      "AL HAMID",
+      "HAMID",
+      "HAMIYD",
+      "AL-HAMIYD",
+      "AL HAMIYD"
+    ]
+  },
+  {
+    "id": 57,
+    "arabic_name": "الْمُحْصِي",
+    "allowed_spellings": [
+      "AL-MUHSEE",
+      "AL MUHSEE",
+      "MUHSEE",
+      "AL-MUHSI",
+      "AL MUHSI",
+      "MUHSI",
+      "AL-MUHSIY",
+      "AL MUHSIY",
+      "MUHSIY"
+    ]
+  },
+  {
+    "id": 58,
+    "arabic_name": "الْمُبْدِئُ",
+    "allowed_spellings": [
+      "AL-MUBDI",
+      "AL MUBDI",
+      "MUBDI",
+      "AL-MUBDIE",
+      "AL MUBDIE",
+      "MUBDIE",
+      "AL-MUBDDIY",
+      "AL MUBDDIY",
+      "MUBDDIY"
+    ]
+  },
+  {
+    "id": 59,
+    "arabic_name": "ٱلْمُعِيدُ",
+    "allowed_spellings": [
+      "AL-MUEED",
+      "AL MUEED",
+      "MUEED",
+      "AL-MUID",
+      "AL MUID",
+      "MUID",
+      "AL-MU'ID",
+      "AL MU'ID",
+      "MU'ID",
+      "MUIYD",
+      "AL MU'IYD",
+      "AL-MU'IYD",
+      "AL-MU'EID",
+      "AL MU'EID",
+      "MU'EID",
+      "AL-MU'EYD",
+      "AL MU'EYD",
+      "MU'EYD"
+    ]
+  },
+  {
+    "id": 60,
+    "arabic_name": "الْمُحْيِي",
+    "allowed_spellings": [
+      "AL-MUHYI",
+      "AL MUHYI",
+      "MUHYI",
+      "AL-MUHYE",
+      "AL MUHYE",
+      "MUHYE"
+    ]
+  },
+  {
+    "id": 61,
+    "arabic_name": "اَلْمُمِيتُ",
+    "allowed_spellings": [
+      "AL-MUMEET",
+      "AL MUMEET",
+      "MUMEET",
+      "AL-MUMIT",
+      "AL MUMIT",
+      "MUMIT",
+      "AL-MUMIYT",
+      "AL MUMIYT",
+      "MUMIYT"
+    ]
+  },
+  {
+    "id": 62,
+    "arabic_name": "الْحَيُّ",
+    "allowed_spellings": [
+      "AL-HAYY",
+      "AL HAYY",
+      "HAYY"
+    ]
+  },
+  {
+    "id": 63,
+    "arabic_name": "الْقَيُّومُ",
+    "allowed_spellings": [
+      "AL-QAYYOOM",
+      "AL QAYYOOM",
+      "QAYYOOM",
+      "AL-QAYYUM",
+      "AL QAYYUM",
+      "QAYYUM",
+      "AL-QAYYOUM",
+      "AL QAYYOUM",
+      "QAYYOUM",
+      "QAYUM",
+      "AL-QAYUM",
+      "AL QAYUM"
+    ]
+  },
+  {
+    "id": 64,
+    "arabic_name": "الْوَاجِدُ",
+    "allowed_spellings": [
+      "AL-WAAJID",
+      "AL WAAJID",
+      "WAAJID",
+      "AL-WAJID",
+      "AL WAJID",
+      "WAJID"
+    ]
+  },
+  {
+    "id": 65,
+    "arabic_name": "الْمَاجِدُ",
+    "allowed_spellings": [
+      "AL-MAAJID",
+      "AL MAAJID",
+      "MAAJID",
+      "AL-MAJID",
+      "AL MAJID",
+      "MAJID"
+    ]
+  },
+  {
+    "id": 66,
+    "arabic_name": "الْواحِدُ",
+    "allowed_spellings": [
+      "AL-WAAHID",
+      "AL WAAHID",
+      "WAAHID",
+      "AL-WAHID",
+      "AL WAHID",
+      "WAHID"
+    ]
+  },
+  {
+    "id": 67,
+    "arabic_name": "اَلاَحَدُ",
+    "allowed_spellings": [
+      "AL-AHAD",
+      "AL AHAD",
+      "AHAD"
+    ]
+  },
+  {
+    "id": 68,
+    "arabic_name": "الصَّمَدُ",
+    "allowed_spellings": [
+      "AS-SAMAD",
+      "AS SAMAD",
+      "SAMAD",
+      "AS-SSAMAD",
+      "AS SSAMAD",
+      "SSAMAD"
+    ]
+  },
+  {
+    "id": 69,
+    "arabic_name": "الْقَادِرُ",
+    "allowed_spellings": [
+      "AL-QADEER",
+      "AL QADEER",
+      "QADEER",
+      "AL-QADIR",
+      "AL QADIR",
+      "QADIR",
+      "AL-QAADAR",
+      "AL QAADAR",
+      "QAADAR",
+      "AL-QAADIR",
+      "AL QAADIR",
+      "QAADIR"
+    ]
+  },
+  {
+    "id": 70,
+    "arabic_name": "الْمُقْتَدِرُ",
+    "allowed_spellings": [
+      "AL-MUQTADIR",
+      "AL MUQTADIR",
+      "MUQTADIR"
+    ]
+  },
+  {
+    "id": 71,
+    "arabic_name": "الْمُقَدِّمُ",
+    "allowed_spellings": [
+      "AL-MUQADDIM",
+      "AL MUQADDIM",
+      "MUQADDIM"
+    ]
+  },
+  {
+    "id": 72,
+    "arabic_name": "الْمُؤَخِّرُ",
+    "allowed_spellings": [
+      "AL-MU'AKHKHIR",
+      "AL MU'AKHKHIR",
+      "MU'AKHKHIR",
+      "AL-MUAKHKHIR",
+      "AL MUAKHKHIR",
+      "MUAKHKHIR"
+    ]
+  },
+  {
+    "id": 73,
+    "arabic_name": "الأوَّلُ",
+    "allowed_spellings": [
+      "AL-AWWAL",
+      "AL AWWAL",
+      "AWWAL"
+    ]
+  },
+  {
+    "id": 74,
+    "arabic_name": "الآخِرُ",
+    "allowed_spellings": [
+      "AL-AAKHIR",
+      "AL AAKHIR",
+      "AAKHIR",
+      "AL-AKHIR",
+      "AL AKHIR",
+      "AKHIR"
+    ]
+  },
+  {
+    "id": 75,
+    "arabic_name": "الظَّاهِرُ",
+    "allowed_spellings": [
+      "AZ-ZAAHIR",
+      "AZ ZAAHIR",
+      "ZAAHIR",
+      "AZ-ZAHIR",
+      "AZ ZAHIR",
+      "ZAHIR",
+      "AZ-ZWAHIR",
+      "AZ ZWAHIR",
+      "ZWAHIR"
+    ]
+  },
+  {
+    "id": 76,
+    "arabic_name": "الْبَاطِنُ",
+    "allowed_spellings": [
+      "AL-BAATIN",
+      "AL BAATIN",
+      "BAATIN",
+      "AL-BATIN",
+      "AL BATIN",
+      "BATIN"
+    ]
+  },
+  {
+    "id": 77,
+    "arabic_name": "الْوَالِي",
+    "allowed_spellings": [
+      "AL-WAALI",
+      "AL WAALI",
+      "WAALI",
+      "AL-WALI",
+      "AL WALI",
+      "WALI"
+    ]
+  },
+  {
+    "id": 78,
+    "arabic_name": "الْمُتَعَالِي",
+    "allowed_spellings": [
+      "AL-MUTA'ALI",
+      "AL MUTA'ALI",
+      "MUTA'ALI",
+      "AL-MUTAALI",
+      "AL MUTAALI",
+      "MUTAALI",
+      "MUTALI",
+      "MUTA ALI"
+    ]
+  },
+  {
+    "id": 79,
+    "arabic_name": "الْبَرُّ",
+    "allowed_spellings": [
+      "AL-BARR",
+      "AL BARR",
+      "BARR"
+    ]
+  },
+  {
+    "id": 80,
+    "arabic_name": "التَّوَابُ",
+    "allowed_spellings": [
+      "AT-TAWWAB",
+      "AT TAWWAB",
+      "TAWWAB",
+      "AT-TAWWAAB",
+      "AT TAWWAAB",
+      "TAWWAAB"
+    ]
+  },
+  {
+    "id": 81,
+    "arabic_name": "الْمُنْتَقِمُ",
+    "allowed_spellings": [
+      "AL-MUNTAQIM",
+      "AL MUNTAQIM",
+      "MUNTAQIM"
+    ]
+  },
+  {
+    "id": 82,
+    "arabic_name": "العَفُوُ",
+    "allowed_spellings": [
+      "AL-AFUW",
+      "AL AFUW",
+      "AFUW",
+      "AL-AFU",
+      "AL AFU",
+      "AFU",
+      "AL-AFOU",
+      "AL AFOU",
+      "AFOU"
+    ]
+  },
+  {
+    "id": 83,
+    "arabic_name": "الرَّؤُوفُ",
+    "allowed_spellings": [
+      "AR-RA'OOF",
+      "AR RA'OOF",
+      "RA'OOF",
+      "AR-RAUF",
+      "AR RAUF",
+      "RAUF",
+      "AR-RA'OUF",
+      "AR RA'OUF",
+      "RA'OUF",
+      "AR-RAWUF",
+      "AR RAWUF",
+      "RAWUF",
+      "RAOOF",
+      "AR RAOOF",
+      "AR-RAOOF"
+    ]
+  },
+  {
+    "id": 84,
+    "arabic_name": "َمَالِكُ ٱلْمُلْكُ",
+    "allowed_spellings": [
+      "MAALIK-UL-MULK",
+      "MAALIK UL-MULK",
+      "MAALIK UL MULK",
+      "MAALIK-UL MULK",
+      "MALIK-UL-MULK",
+      "MALIK UL-MULK",
+      "MALIK-UL MULK",
+      "MALIK UL MULK",
+      "MALIKU'L-MULK",
+      "MALIKUL MULK",
+      "MALIKULMULK",
+      "MALIKUL"
+    ]
+  },
+  {
+    "id": 85,
+    "arabic_name": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+    "allowed_spellings": [
+      "DHUL-JALAALI WAL-IKRAAM",
+      "DHUL JALAALI WAL-IKRAAM",
+      "DHUL-JALAALI WAL IKRAAM",
+      "DHUL JALAALI WAL IKRAAM",
+      "DHUL-JALALI WAL-IKRAAM",
+      "DHUL JALALI WAL-IKRAAM",
+      "DHUL-JALALI WAL IKRAAM",
+      "DHUL JALALI WAL IKRAAM",
+      "DHUL JALALI WAL IKRAM",
+      "DHUL-JALALI WAL-IKRAM",
+      "ZUL JALALI",
+      "DHUL JALALI",
+      "DZHUL",
+      "DHU'L",
+      "ZUL JALAALI"
+    ]
+  },
+  {
+    "id": 86,
+    "arabic_name": "الْمُقْسِطُ",
+    "allowed_spellings": [
+      "AL-MUQSIT",
+      "AL MUQSIT",
+      "MUQSIT"
+    ]
+  },
+  {
+    "id": 87,
+    "arabic_name": "الْجَامِعُ",
+    "allowed_spellings": [
+      "AL-JAMI",
+      "AL JAMI",
+      "JAMI",
+      "AL-JAAMI",
+      "AL JAAMI",
+      "JAAMI"
+    ]
+  },
+  {
+    "id": 88,
+    "arabic_name": "ٱلْغَنيُّ",
+    "allowed_spellings": [
+      "AL-GHANIY",
+      "AL GHANIY",
+      "GHANIY",
+      "AL-GHANI",
+      "AL GHANI",
+      "GHANI"
+    ]
+  },
+  {
+    "id": 89,
+    "arabic_name": "ٱلْمُغْنِيُّ",
+    "allowed_spellings": [
+      "AL-MUGHNI",
+      "AL MUGHNI",
+      "MUGHNI"
+    ]
+  },
+  {
+    "id": 90,
+    "arabic_name": "اَلْمَانِعُ",
+    "allowed_spellings": [
+      "AL-MANI",
+      "AL MANI",
+      "MANI",
+      "AL-MAANI",
+      "AL MAANI",
+      "MAANI"
+    ]
+  },
+  {
+    "id": 91,
+    "arabic_name": "الضَّارَ",
+    "allowed_spellings": [
+      "AD DHARR",
+      "DHARR",
+      "ADH-DHAR",
+      "ADH DHAR",
+      "DARR",
+      "AD-DARR",
+      "AD DARR"
+    ]
+  },
+  {
+    "id": 92,
+    "arabic_name": "النَّافِعُ",
+    "allowed_spellings": [
+      "AN-NAFI",
+      "AN NAFI",
+      "NAFI",
+      "AN-NAAFI",
+      "NAAFI",
+      "AN NAAFI"
+    ]
+  },
+  {
+    "id": 93,
+    "arabic_name": "النُّورُ",
+    "allowed_spellings": [
+      "AN-NUR",
+      "AN NUR",
+      "NUR",
+      "AN-NOUR",
+      "AN NOUR",
+      "NOUR",
+      "NOOR"
+    ]
+  },
+  {
+    "id": 94,
+    "arabic_name": "الْهَادِي",
+    "allowed_spellings": [
+      "AL-HAADI",
+      "AL HAADI",
+      "HAADI",
+      "AL-HADI",
+      "AL HADI",
+      "HADI"
+    ]
+  },
+  {
+    "id": 95,
+    "arabic_name": "الْبَدِيعُ",
+    "allowed_spellings": [
+      "AL-BADEE",
+      "AL BADEE",
+      "BADEE",
+      "AL-BADI",
+      "AL BADI",
+      "BADI",
+      "AL-BADIY",
+      "AL BADIY",
+      "BADIY"
+    ]
+  },
+  {
+    "id": 96,
+    "arabic_name": "اَلْبَاقِي",
+    "allowed_spellings": [
+      "AL-BAAQI",
+      "AL BAAQI",
+      "BAAQI",
+      "AL-BAQI",
+      "AL BAQI",
+      "BAQI"
+    ]
+  },
+  {
+    "id": 97,
+    "arabic_name": "الْوَارِثُ",
+    "allowed_spellings": [
+      "AL-WAARITH",
+      "AL WAARITH",
+      "WAARITH",
+      "AL-WARITH",
+      "AL WARITH",
+      "WARITH"
+    ]
+  },
+  {
+    "id": 98,
+    "arabic_name": "الرَّشِيدُ",
+    "allowed_spellings": [
+      "AR-RASHEED",
+      "AR RASHEED",
+      "RASHEED",
+      "AR-RASHID",
+      "RASHID",
+      "AR RASHID"
+    ]
+  },
+  {
+    "id": 99,
+    "arabic_name": "الصَّبُورُ",
+    "allowed_spellings": [
+      "AS-SABOOR",
+      "AS SABOOR",
+      "SABOOR",
+      "AS-SABUR",
+      "AS SABUR",
+      "SABUR",
+      "AS-SABOUR",
+      "AS SABOUR",
+      "SABOUR"
+    ]
+  }
+]
