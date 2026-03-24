@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-olive-800">
-  	<div v-if="!item.matched" class="text-4xl text-center my-4">{{ item.id }}</div>
+  <div class="bg-olive-800 py-2">
+  	<div v-if="!item.matched" class="text-4xl text-center my-4 text-olive-700">{{ item.id }}</div>
   	<transition	name="reveal">
   		<div v-if="item.matched" class="mt-2">  			
 		    <h2 class="text-xl text-center text-amber-400">{{ item.arabic_name }}</h2>
