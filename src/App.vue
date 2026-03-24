@@ -13,8 +13,8 @@
       name="" 
       class="border border-olive-600 text-white my-2 mx-auto w-96 p-2 rounded-md focus:outline-none">
       <div class="flex space-x-2 text-white px-2">
-        <button class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Train</button>
-        <button class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Reveal</button>
+        <button  @click="toggleTrainingMode" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Train</button>
+        <button @click="revealAll" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Reveal</button>
       </div>
   </div>
   <div class="grid grid-cols-11 gap-2 px-2">    
@@ -22,6 +22,7 @@
         v-for="item in names"
         :key="item.id"
         :item="item"
+        :isTrainingMode="isTrainingMode"
         @reveal="revealCard"
       />
   </div>
@@ -39,10 +40,12 @@ export default {
   data() {
     return {
       guess:'',
+      isTrainingMode: false,
       names: rawNames.map(item => ({
         ...item,
         matched: false,
-        revealedManually: false
+        revealedManually: false,
+        trainingEligible: false
       }))
     }
   },
@@ -73,6 +76,7 @@ export default {
         if (isMatch && !item.matched) {
           item.matched = true
           item.revealedManually = false
+          item.trainingEligible = false
           foundMatch = true
         }
       })
@@ -86,6 +90,29 @@ export default {
       if (item && !item.matched) {
         item.matched = true
         item.revealedManually = true
+        item.trainingEligible = true
+      }
+    },
+    revealAll() {
+      this.names.forEach(item => {
+        if (!item.matched) {
+          item.matched = true
+          item.revealedManually = true
+          item.trainingEligible = true
+        }
+      })
+    },
+    toggleTrainingMode() {
+      this.isTrainingMode = !this.isTrainingMode
+
+      if (this.isTrainingMode) {
+        // reset only training items for practice
+        this.names.forEach(item => {
+          if (item.trainingEligible) {
+            item.matched = false
+            item.revealedManually = false
+          }
+        })
       }
     },
     handleKeydown(e) {

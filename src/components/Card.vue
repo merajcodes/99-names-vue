@@ -15,10 +15,8 @@
 export default {
   name: 'Card',
   props: {
-    item: {
-      type: Object,
-      required: true
-    }
+    item: Object,
+    isTrainingMode: Boolean
   },
   computed: {
     cardClass() {
@@ -29,6 +27,7 @@ export default {
   },
   methods: {
     handleClick() {
+      if (this.isTrainingMode && !this.item.trainingEligible) return
       this.$emit('reveal', this.item.id)
     }
   }
