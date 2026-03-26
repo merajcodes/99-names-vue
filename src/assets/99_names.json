@@ -97,7 +97,10 @@
     "allowed_spellings": [
       "AL-MUHAYMIN",
       "AL MUHAYMIN",
-      "MUHAYMIN"
+      "AL-MUHAIMIN",
+      "AL MUHAIMIN",
+      "MUHAYMIN",
+      "MUHAIMIN"
     ]
   },
   {
@@ -764,8 +767,11 @@
     "english_meaning": "The Absolute Truth",
     "allowed_spellings": [
       "AL-HAQQ",
+      "AL-HAQ",
       "AL HAQQ",
-      "HAQQ"
+      "AL HAQ",
+      "HAQQ",
+      "HAQ"
     ]
   },
   {

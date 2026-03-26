@@ -1,6 +1,6 @@
 <template>
   <div class="py-2 cursor-pointer" 
-  :class="cardClass" 
+  :class="[cardClass, { 'flash-card': item.flash }]" 
   @click="handleClick">
   	<div v-if="!item.matched" class="text-4xl text-center my-4 text-olive-700">{{ item.id }}</div>
   	<transition	name="reveal">
@@ -52,5 +52,24 @@ export default {
 .reveal-leave-from {
   opacity: 1;
   transform: translateY(0);
+}
+
+.flash-card {
+  animation: flashCard 0.5s ease;
+}
+
+@keyframes flashCard {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 rgba(251, 191, 36, 0);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 0 12px rgba(251, 191, 36, 0.8);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 rgba(251, 191, 36, 0);
+  }
 }
 </style>

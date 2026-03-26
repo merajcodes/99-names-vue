@@ -45,7 +45,8 @@ export default {
         ...item,
         matched: false,
         revealedManually: false,
-        trainingEligible: false
+        trainingEligible: false,
+        flash: false
       }))
     }
   },
@@ -63,21 +64,25 @@ export default {
     },
     checkGuess() {
       const normalizedGuess = this.normalizeText(this.guess)
-
       if (!normalizedGuess) return
 
       let foundMatch = false
 
       this.names.forEach(item => {
-        const isMatch = item.allowed_spellings.some(spelling => {
-          return this.normalizeText(spelling) === normalizedGuess
-        })
+        const isMatch = item.allowed_spellings.some(spelling =>
+          this.normalizeText(spelling) === normalizedGuess
+        )
 
-        if (isMatch && !item.matched) {
-          item.matched = true
-          item.revealedManually = false
-          item.trainingEligible = false
+        if (isMatch) {
           foundMatch = true
+
+          if (item.matched) {
+            this.flashCard(item)
+          } else {
+            item.matched = true
+            item.revealedManually = false
+            item.trainingEligible = false
+          }
         }
       })
 
@@ -114,6 +119,17 @@ export default {
           }
         })
       }
+    },
+    flashCard(item) {
+      item.flash = false
+
+      this.$nextTick(() => {
+        item.flash = true
+
+        setTimeout(() => {
+          item.flash = false
+        }, 500)
+      })
     },
     handleKeydown(e) {
       // "/" key (Shift+/ also triggers same key)
