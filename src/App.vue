@@ -4,19 +4,22 @@
   </h1>
   <div class="flex justify-center items-center">    
     <p class="text-olive-500 mx-2 text-4xl">{{ matchedCount }} / 99</p>
+
     <input 
       v-model="guess" 
       placeholder="type a name" 
       @input="checkGuess"
       ref="guessInput"
-      type="text" 
-      name="" 
+      type="text"
       class="border border-olive-600 text-white my-2 mx-auto w-96 p-2 rounded-md focus:outline-none">
-      <div class="flex space-x-2 text-white px-2">
-        <button  @click="toggleTrainingMode" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Train</button>
-        <button @click="revealAll" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Reveal</button>
-      </div>
+
+    <div class="flex space-x-2 text-white px-2">
+      <button  @click="toggleTrainingMode" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Train</button>
+      <button @click="revealAll" class="rounded-md bg-olive-700 px-4 py-1 text-olive-300">Reveal</button>
+    </div>
+
   </div>
+  
   <div class="grid grid-cols-11 gap-2 px-2">    
     <Card
         v-for="item in names"
